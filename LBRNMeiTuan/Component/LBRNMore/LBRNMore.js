@@ -78,7 +78,7 @@ var LBRNMore = React.createClass({
         setUpNav(){
             return(
                     <View style={styles.navViewStyle}>
-                        <Text style={{color:'white',fontSize:18,marginTop: 25}}>更多</Text>
+                        <Text style={{color:'white',fontSize:18,marginTop: 25,fontWeight:'bold'}}>更多</Text>
                         <TouchableOpacity style={{position:'absolute',right:10,marginTop:22}} onPress={()=>this.setButtonMethod()}>
                             <Image source={{uri:'icon_navigationItem_set_white'}} style={styles.settingStyle} />
                         </TouchableOpacity>

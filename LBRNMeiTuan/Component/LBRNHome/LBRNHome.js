@@ -19,7 +19,7 @@ var LBRNHome = React.createClass({
             return (
                 <View style={styles.container}>
                     <View style={styles.homeStyleStyle}>
-                        <Text style={{color: 'white',fontSize:18,marginTop:28}}>首页</Text>
+                        <Text style={{color: 'white',fontSize:18,marginTop:28,fontWeight:'bold'}}>首页</Text>
                     </View>
 
                 </View>
