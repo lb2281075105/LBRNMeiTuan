@@ -124,4 +124,5 @@ ReactNative 仿美团项目
 
 6. 传值
 
-7. <img src="我的.png" width="375">
+7. 我的模块： 
+  <img src="我的界面.png" width="375">
