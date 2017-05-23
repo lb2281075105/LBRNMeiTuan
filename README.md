@@ -123,3 +123,5 @@ ReactNative 仿美团项目
 5. 导航栏图片：定位position
 
 6. 传值
+
+7. <img src="我的.png" width="375">

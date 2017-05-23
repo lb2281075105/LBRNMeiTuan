@@ -120,7 +120,7 @@ var LBRNMine = React.createClass({
         renderImageMethod(imageString,name){
             return(
                 <View style={{justifyContent:'center',width:width/4.0,alignItems:'center'}}>
-                    <Image source={{uri:imageString}} style={{width:30,height:20}}/>
+                    <Image source={{uri:imageString}} style={{width:40,height:30}}/>
                     <Text style={{color:'#bbb',marginTop:7}}>{name}</Text>
                 </View>
                 )

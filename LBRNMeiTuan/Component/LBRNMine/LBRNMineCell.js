@@ -27,7 +27,7 @@ var LBRNMineCell = React.createClass({
         },
         render(){
             return (
-                <View >
+                <View style={{backgroundColor:'#DCDCDB'}}>
                    <TouchableOpacity style={styles.cellStyle} onPress={()=>{AlertIOS.alert(this.props.title)}}>
                      <View style={styles.leftViewStyle}>
                         <Image source={{uri:this.props.iconLeftString}} style={styles.leftIconStyle}/>
