@@ -112,4 +112,14 @@ ReactNative 仿美团项目
   <img src="zongduan.png" width="375">
    * 错误截图
   <img src="错误截图.png" width="375">
-   
+
+4. 导入文件：* ```第一种方式
+             import SmallMiddleView from './SmallMiddleView.js';
+             ```
+ 
+           * ```第二种方式
+             SmallMiddleView = require('SmallMiddleView');
+             ```
+5. 导航栏图片：定位position
+
+6. 传值
