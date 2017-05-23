@@ -35,7 +35,7 @@ var LBRNMine = React.createClass({
                                 </TouchableOpacity>
                             </View>
                             {/*美团劵、评价、收藏*/}
-                            <View style={{height:60,width:width,backgroundColor:'#FC8135',flexDirection:'row'}}>
+                            <View style={{height:60,width:width,backgroundColor:'#FC8135',flexDirection:'row',marginTop: 20}}>
                                 {this.renderViewMethod('500','美团劵')}
                                 <View style={{backgroundColor:'#ddd',height:56,marginTop:2,width:0.5}}></View>
                                 {this.renderViewMethod('500','评价')}
