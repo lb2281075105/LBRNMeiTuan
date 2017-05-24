@@ -131,7 +131,7 @@ ReactNative 仿美团项目
   <img src="商家.png" width="375">
 
 9. 首页上部上部视图：
-  <img src="topView.png" width="200" >
+  <img src="topView.png" width="375" >
 核心代码：
 ```JavaScript
     // 当滚动动画结束之后调用此回调

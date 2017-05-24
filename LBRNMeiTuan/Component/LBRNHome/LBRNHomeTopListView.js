@@ -33,7 +33,7 @@ var LBRNHomeTopListView = React.createClass({
                     dataSource={this.state.dataSource}
                     renderRow={this.renderRow}
                     contentContainerStyle={styles.contentStyle}
-                    scrollEnabled={false}
+                    scrollEnabled={false}//设置ListView不滑动
                 />
 
             </View>
