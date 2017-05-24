@@ -130,6 +130,104 @@ ReactNative 仿美团项目
 8. 商家模块：
   <img src="商家.png" width="375">
 
+9. 首页上部上部视图：
+  <img src="topView.png" width="200" >
+核心代码：
+```JavaScript
+    // 当滚动动画结束之后调用此回调
+    onScrollAnimationEnd(event){
+         // Math.floor(x)获取不大于x的最大整数
+         var page = Math.floor(event.nativeEvent.contentOffset.x/width);
+         console.log(page);
+         this.setState({
+         currentPage:page
+      })
+    },
+    renderScrollViewMethod(){
+         var dataCount = homeTopMenuData;
+         var array = [];
+         for (var i=0;i<dataCount.length;i++){
+            array.push(
+               <LBRNHomeTopListView
+                  dataArray={homeTopMenuData[i]}
+                  key={i}
+               />
+             )
+          }
+          return array;
+    },
+    indicatorMethod(){
+         var colorsArray = [], bullColor;
+         //&bull; 圆点
+         for(var i=0;i<2;i++){
+               bullColor = i == this.state.currentPage ? 'orange' : '#bbb';
+               colorsArray.push(
+                 <Text style={[{fontSize:22,paddingRight:3}, style={color:bullColor}]} key={i}>&bull;</Text>
+               )
+         }
+         return colorsArray;
+     }
+==============================================
+    var LBRNHomeTopListView = React.createClass({
+         getDefaultProps(){
+            return{
+               dataArray:[]
+           }
+         },
+         getInitialState(){
+            let ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
+            return{
+               dataSource : ds.cloneWithRows(this.props.dataArray)
+             }
+          },
+        render(){
+            return(
+               <View>
+                  <ListView
+                      dataSource={this.state.dataSource}
+                      renderRow={this.renderRow}
+                      contentContainerStyle={styles.contentStyle}
+                      scrollEnabled={false}//设置ListView不滑动
+                   />
+
+              </View>
+            )
+         },
+        //cell
+        renderRow(rowData){
+            return(
+               <View style={{width:imageWH,height:imageWH,justifyContent:'center',alignItems:'center'}}>
+                  <Image source={{uri:rowData.image}} style={{width:imageWH - 20,height:imageWH - 20}}/>
+                  <Text>{rowData.title}</Text>
+               </View>
+            )
+           }
+     })
+```
+注意事项：
+```JavaScript
+    // 底部如果是ScrollView,那么根节点就是ScrollView,不要把根节点设置为View
+    <ScrollView>
+         <LBRNHomeTopView
+
+         />
+    </ScrollView>
+
+    <ListView
+         dataSource={this.state.dataSource}
+         renderRow={this.renderRow}
+         contentContainerStyle={styles.contentStyle}
+         scrollEnabled={false}
+     />
+
+    // 要使ListView换行,要设置ListView宽度
+    contentStyle:{
+         flexDirection:'row',
+         flexWrap:'wrap',
+         width:width
+    }
+
+```
 =======================
 
   #### 如有更好的建议请联系:<2281075105@qq.com>
