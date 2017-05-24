@@ -4,6 +4,8 @@ ReactNative 仿美团项目
 1. 仿美团项目：首先设置标签栏和导航栏
 
 <img src="导航栏和标签栏.png" width="375">
+
+核心代码：
 ```JavaScript
 
         var LBRNMain = React.createClass({
@@ -70,7 +72,8 @@ ReactNative 仿美团项目
 
 ```
 2. 加载启动图片： 
-   核心代码：
+
+核心代码：
 ```JavaScript
 
         var LBRNLaunchImage = React.createClass({
