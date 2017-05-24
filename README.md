@@ -133,7 +133,7 @@ ReactNative 仿美团项目
 9. 首页上部上部视图：
   <img src="topView.png" width="375" >
 
-< 组件式开发
+> 组件式开发
 
 核心代码：
 ```JavaScript
