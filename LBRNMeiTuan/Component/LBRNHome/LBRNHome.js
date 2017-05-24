@@ -14,22 +14,29 @@ import {
     Image,
     TextInput,
     TouchableOpacity,
-    AlertIOS
+    AlertIOS,
+    ScrollView
 } from 'react-native';
 
 var width = require('Dimensions').get('window').width;
+
+import LBRNHomeTopView from './LBRNHomeTopView.js';
+//var LBRNHomeTopView = require('./LBRNHomeTopView');
+
 var LBRNHome = React.createClass({
         render(){
             return (
                 <View style={styles.container}>
                     {/*导航栏设置*/}
                     {this.renderHomeNavbar()}
+                    {/*上部滑动组件*/}
+                    {this.renderTopView()}
                 </View>
             );
         },
         renderHomeNavbar(){
             return(
-                <View style={styles.homeStyleStyle}>
+                <View style={styles.homeStyle}>
                     <TouchableOpacity onPress={()=>{AlertIOS.alert('济南')}}>
                         <Text style={{color:'white',fontSize:16,marginLeft:10,fontWeight:'bold'}}>济南</Text>
                     </TouchableOpacity>
@@ -44,6 +51,16 @@ var LBRNHome = React.createClass({
                     <Image source={{uri:'icon_homepage_scan'}} style={[styles.toolBarIcon,{marginRight:10,marginTop:5}]}/>
                 </View>
             )
+        },
+        renderTopView(){
+            return(
+                 // 底部如果是ScrollView,那么根节点就是ScrollView,不要把根节点设置为View
+                 <ScrollView>
+                    <LBRNHomeTopView
+
+                    />
+                 </ScrollView>
+            )
         }
     }
 )
@@ -52,9 +69,9 @@ var LBRNHome = React.createClass({
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#F5FCFF',
+        backgroundColor: '#ddd',
     },
-    homeStyleStyle:{
+    homeStyle:{
         width:width,
         height:Platform.OS === 'ios' ? 64 : 44,
         backgroundColor:'#FB6320',
