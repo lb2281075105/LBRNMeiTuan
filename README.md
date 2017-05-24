@@ -133,7 +133,7 @@ ReactNative 仿美团项目
 8. 商家模块：
   <img src="商家.png" width="375">
 
-9. 首页上部上部视图：
+9. 首页上部视图：
   <img src="topView.png" width="375" >
 
 > 组件式开发
@@ -233,6 +233,70 @@ ReactNative 仿美团项目
          width:width
     }
 
+```
+
+10. 首页中间组件以及购物中心组件：
+<img src="topView.png" width="375" >
+
+> 组件式开发
+
+核心代码：
+```JavaScript
+
+    var LBRNHomeShopCenterView = React.createClass({
+        getDefaultProps(){
+             return{
+                dataArray:[]
+             }
+        },
+        getInitialState(){
+             let dataSource = new ListView.DataSource({rowHasChanged:(row1,row2) => row1 !== row2});
+             return{
+               dataSource:dataSource.cloneWithRows(this.props.dataArray)
+            }
+        },
+        render(){
+             return(
+                <ListView
+                  dataSource={this.state.dataSource}
+                  renderRow={this.renderCenterRow}
+                  contentContainerStyle={styles.contentStyle}
+        />
+
+    )
+    },
+    //cell
+    renderCenterRow(rowData,sectionID,rowID){
+           var imageMarginRight = 0;
+
+          if (this.props.dataArray.length-1 == rowID){
+              imageMarginRight = 10;
+          }
+          return(
+         <View >
+            <View style={styles.container}>
+            <Image source={{uri:rowData.img}} style={{width:130,height:97,borderRadius:10,marginRight:imageMarginRight}}/>
+            <Text style={{color:'white',position:'absolute',bottom:20,backgroundColor:'red',fontSize:16}}>{rowData.showtext.text}</Text>
+
+         </View>
+
+         <View >
+             <Text style={{fontSize:14,fontWeight:'bold', color:'#bbb',marginTop:5,marginLeft:10,marginBottom:5}}>{rowData.name}</Text>
+             </View>
+         </View>
+      )
+     }
+    })
+    const styles = StyleSheet.create({
+          container:{
+              backgroundColor:'white',
+              marginLeft:10
+          },
+          contentStyle:{
+              flexDirection:'row',
+         }
+    })
+    module.exports=LBRNHomeShopCenterView;
 ```
 =======================
 
