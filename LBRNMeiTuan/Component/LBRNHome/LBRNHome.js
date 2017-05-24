@@ -31,6 +31,8 @@ var LBRNHome = React.createClass({
                     {this.renderHomeNavbar()}
                     {/*上部滑动组件*/}
                     {this.renderTopView()}
+                    {/*天天特价、名店请购、一元吃*/}
+                    {this.renderCenterViewMethod()}
                 </View>
             );
         },
@@ -57,10 +59,12 @@ var LBRNHome = React.createClass({
                  // 底部如果是ScrollView,那么根节点就是ScrollView,不要把根节点设置为View
                  <ScrollView>
                     <LBRNHomeTopView
-
                     />
                  </ScrollView>
             )
+        },
+        renderCenterViewMethod(){
+
         }
     }
 )
