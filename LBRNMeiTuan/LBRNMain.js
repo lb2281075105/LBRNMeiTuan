@@ -56,7 +56,7 @@ var LBRNMain = React.createClass({
                     }}
                     renderScene={(route, navigator) => {
                         let Component = route.component;
-                        return <Component {...route.props} navigator={navigator} />
+                        return <Component navigator={navigator} {...route.passProps} />
                     }}
                 />
 

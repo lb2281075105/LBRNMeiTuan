@@ -9,14 +9,17 @@ import {AppRegistry,
     Text,
     View,
     Image,
-    ListView
+    ListView,
+    TouchableOpacity,
+    AlertIOS
 } from 'react-native';
 ///封装购物中心的小组件
 var width = require('Dimensions').get('window').width;
 var LBRNHomeShopCenterView = React.createClass({
     getDefaultProps(){
         return{
-            dataArray:[]
+            dataArray:[],
+            popToHome:null
         }
     },
     getInitialState(){
@@ -44,6 +47,7 @@ var LBRNHomeShopCenterView = React.createClass({
         }
         return(
             <View >
+               <TouchableOpacity activeOpacity={0.5} onPress={()=>this.urlMethod(rowData.detailurl)}>
                 <View style={styles.container}>
                     <Image source={{uri:rowData.img}} style={{width:130,height:97,borderRadius:10,marginRight:imageMarginRight}}/>
                     <Text style={{color:'white',position:'absolute',bottom:20,backgroundColor:'red',fontSize:16}}>{rowData.showtext.text}</Text>
@@ -53,9 +57,19 @@ var LBRNHomeShopCenterView = React.createClass({
                 <View >
                     <Text style={{fontSize:14,fontWeight:'bold', color:'#bbb',marginTop:5,marginLeft:10,marginBottom:5}}>{rowData.name}</Text>
                 </View>
+               </TouchableOpacity>
             </View>
         )
+    },
+    urlMethod(url){
+        ///处理url
+        var httpUrl=url.replace('imeituan://www.meituan.com/web/?url=','');
+
+        if (httpUrl == null)return;
+        this.props.popToHome(httpUrl);
+        //AlertIOS.alert(httpUrl);
     }
+
 })
 const styles = StyleSheet.create({
     container:{

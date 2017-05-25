@@ -15,7 +15,8 @@ import {
     TextInput,
     TouchableOpacity,
     AlertIOS,
-    ScrollView
+    ScrollView,
+    Navigator
 } from 'react-native';
 
 var width = require('Dimensions').get('window').width;
@@ -24,6 +25,9 @@ import LBRNHomeTopView from './LBRNHomeTopView.js';
 import LBRNHmeCenterView from './LBRNHmeCenterView.js';
 import LBRNHmeCenter1View from './LBRNHmeCenter1View.js';
 import LBRNHomeShopCenterView from './LBRNHomeShopCenterView.js';
+import LBRNHomeLike from './LBRNHomeLike.js';
+import LBRNHomeShopCenterDetail from './LBRNHomeShopCenterDetail.js';
+
 //var LBRNHomeTopView = require('./LBRNHomeTopView');
 //获取数据(后缀名可加可不加)
 var homeCenterMenuData = require('../../localData/HomeCenterMenu');
@@ -71,7 +75,9 @@ var LBRNHome = React.createClass({
                      {/*一元肯德基、领21元红包、新用户专享、一元抢吧*/}
                      {this.renderCenterView1Method()}
                      {/*购物中心*/}
-                     {this.shopCenterMethod()}
+                     {this.renderShopCenterMethod()}
+                     {/*猜你喜欢*/}
+                     {this.renderHomeLike()}
                  </ScrollView>
             )
         },
@@ -116,7 +122,7 @@ var LBRNHome = React.createClass({
                 </View>
             )
         },
-        shopCenterMethod(){
+        renderShopCenterMethod(){
              return(
                  <View style={{backgroundColor:'white',marginTop:10}}>
                      <View style={{flexDirection:'row',justifyContent:'space-between',padding:10}}>
@@ -135,11 +141,29 @@ var LBRNHome = React.createClass({
                          >
                            <LBRNHomeShopCenterView
                                dataArray={homeShopCenter.data}
+                               popToHome={(url)=>this.popToHome(url)}///回调函数
                            />
                          </ScrollView>
                      </View>
                  </View>
              )
+        },
+        renderHomeLike(){
+            return(
+                <ScrollView>
+                    <LBRNHomeLike
+
+                    />
+                </ScrollView>
+            )
+        },
+        popToHome(url){
+            console.log(url);
+            this.props.navigator.push({
+                component:LBRNHomeShopCenterDetail,
+                passProps:{'url':url},
+                title:'购物中心详情'
+            })
         }
     }
 )
