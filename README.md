@@ -43,7 +43,7 @@ ReactNative 仿美团项目
                        }}
                        renderScene={(route, navigator) => {
                        let Component = route.component;
-                       return <Component {...route.props} navigator={navigator} />
+                       return <Component {...route.passProps} navigator={navigator} />
                        }}
                     />
 
@@ -297,6 +297,49 @@ ReactNative 仿美团项目
          }
     })
     module.exports=LBRNHomeShopCenterView;
+```
+
+11. 购物中心详情：
+
+    购物中心详情：回调函数，逆向传值或者是正向传值
+
+   <img src="购物中心详情.png" width="375" >
+
+> 组件式开发
+
+核心代码：
+```JavaScript
+
+    getDefaultProps(){
+         return{
+           dataArray:[],
+           popToHome:null
+    }
+    },
+
+    urlMethod(url){
+         ///处理url
+        var httpUrl=url.replace('imeituan://www.meituan.com/web/?url=','');
+
+        if (httpUrl == null)return;
+        this.props.popToHome(httpUrl);
+        //AlertIOS.alert(httpUrl);
+    }
+
+    <LBRNHomeShopCenterView
+        dataArray={homeShopCenter.data}
+        popToHome={(url)=>this.popToHome(url)}///回调函数
+    />
+
+    <WebView
+        automaticallyAdjustContentInsets={true}
+        source={{uri: this.state.detailUrl}}
+        javaScriptEnabled={true}
+        domStorageEnabled={true}
+        decelerationRate="normal"
+        startInLoadingState={true}
+    />
+
 ```
 =======================
 
