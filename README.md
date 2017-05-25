@@ -376,10 +376,18 @@ ReactNative 仿美团项目
 ```
 =======================
 
+## 注意：如何运行本项目？
+> 第一步：【npm install】
+> 第二步：【react-native-link】
+> 第三步：【react-native run-android】
+> 如果有什么问题可以github直接提issue给我，或者留言给我
+
+
   #### 如有更好的建议请联系:<2281075105@qq.com>
 
   #### 想看更多开源项目请点击：[Github地址](https://github.com/lb2281075105)
 
 ## 学习心得
-   第一次学习ReactNative开发，感觉编写代码心里很舒畅，用JSX语句开发App，很爽快，自学ReactNative，有时间看看ReactNative中文网站资源，就拿`美团`作为练手项目，也是第一个在github上面开源项目，接下来也会深入学习，写更多的开源项目来提升自己的能力。
+
+> 第一次学习ReactNative开发，感觉编写代码心里很舒畅，用JSX语句开发App，很爽快，自学ReactNative，有时间看看ReactNative中文网站资源，就拿`美团`作为练手项目，也是第一个在github上面开源项目，接下来也会深入学习，写更多的开源项目来提升自己的能力。
    也会不断更新笔记。
