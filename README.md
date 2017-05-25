@@ -347,7 +347,7 @@ ReactNative 仿美团项目
 
     猜你喜欢：回调函数，逆向传值或者是正向传值
 
-    <img src="猜你喜欢.png" width="375" >
+    <img src="猜你like.png" width="375" >
 
 > 组件式开发
 
