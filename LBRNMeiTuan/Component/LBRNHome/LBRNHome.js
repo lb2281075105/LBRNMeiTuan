@@ -27,12 +27,15 @@ import LBRNHmeCenter1View from './LBRNHmeCenter1View.js';
 import LBRNHomeShopCenterView from './LBRNHomeShopCenterView.js';
 import LBRNHomeLike from './LBRNHomeLike.js';
 import LBRNHomeShopCenterDetail from './LBRNHomeShopCenterDetail.js';
+import LBRNHomeHotView from './LBRNHomeHotView.js';
+import LBRNHomeHotCenter from './LBRNHomeHotCenter.js';
 
 //var LBRNHomeTopView = require('./LBRNHomeTopView');
 //获取数据(后缀名可加可不加)
 var homeCenterMenuData = require('../../localData/HomeCenterMenu');
 var homeCenter1MenuData = require('../../localData/HomeCenter1Menu');
 var homeShopCenter = require('../../localData/HomeShopCenter.json');
+var homeHotData = require('../../localData/HomeHotData.json');
 
 
 var LBRNHome = React.createClass({
@@ -74,6 +77,8 @@ var LBRNHome = React.createClass({
                      {this.renderCenterViewMethod()}
                      {/*一元肯德基、领21元红包、新用户专享、一元抢吧*/}
                      {this.renderCenterView1Method()}
+                     {/*热门*/}
+                     {this.renderHomeHotMethod()}
                      {/*购物中心*/}
                      {this.renderShopCenterMethod()}
                      {/*猜你喜欢*/}
@@ -122,6 +127,35 @@ var LBRNHome = React.createClass({
                 </View>
             )
         },
+        renderHomeHotMethod(){
+            return(
+                <View style={{marginTop:10}}>
+                    <View style={{flexDirection:'row',alignItems:'center',backgroundColor:'white'}}>
+                        <Image source={{uri:'cnxh'}} style={{width:40,height:40,marginLeft:5}}/>
+                        <Text style={{color:'#bbb',marginLeft:5}}>热门中心</Text>
+                    </View>
+                    <View style={{backgroundColor:'white'}}>
+                        <LBRNHomeHotView
+                            data={homeHotData.topData}
+                            popToHot={(target)=>this.popToHot(target)}
+                        />
+                    </View>
+                    <View style={{backgroundColor:'white'}}>
+                        <LBRNHomeHotView
+                            data={homeHotData.bottomData}
+                            popToHot={(target)=>this.popToHot(target)}
+                        />
+                    </View>
+                </View>
+            )
+        },
+        popToHot(target){
+            this.props.navigator.push({
+                component:LBRNHomeHotCenter,
+                passProps:{'url':target},
+                title:'热门中心'
+            })
+        },
         renderShopCenterMethod(){
              return(
                  <View style={{backgroundColor:'white',marginTop:10}}>
@@ -150,11 +184,17 @@ var LBRNHome = React.createClass({
         },
         renderHomeLike(){
             return(
-                <ScrollView>
-                    <LBRNHomeLike
+                <View style={{marginTop:10}}>
+                    <View style={{flexDirection:'row',alignItems:'center',backgroundColor:'white'}}>
+                        <Image source={{uri:'cnxh'}} style={{width:40,height:40,marginLeft:5}}/>
+                        <Text style={{color:'#bbb',marginLeft:5}}>猜你喜欢</Text>
+                    </View>
+                    <ScrollView>
+                       <LBRNHomeLike
 
                     />
-                </ScrollView>
+                    </ScrollView>
+                </View>
             )
         },
         popToHome(url){
