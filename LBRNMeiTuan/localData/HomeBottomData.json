@@ -1,0 +1,2483 @@
+{
+  "data": [
+    {
+      "imageUrl": "http://p1.meituan.net/200.200/xianfu/915f99a7d2329074b4b99f614be96cea20480.jpeg.webp",
+      "imageTag": "0",
+      "title": "谢记沙县小吃",
+      "imageTitle": "http://p0.meituan.net/groupop/df92b87c4a50cb952406cb116ecf02691800.png",
+      "subTitle": "34分钟送达",
+      "subTitle2": "起送价¥15|配送费¥3",
+      "subMessage": "满20减3, 满30减...",
+      "bottomRightInfo": "月售1151",
+      "_type": "waimai",
+      "_from": "POI_WAIMAI",
+      "_id": "84665021",
+      "_iUrl": "imeituan://www.meituan.com/takeout/foods?poi_id=653193&ct_poi=865486181226262528_c0_ef77849136e4aeda9b84d488f34e0eaa3_f84665021",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#06c1ae"
+      },
+      "ct_poi": "865486181226262528_c0_ef77849136e4aeda9b84d488f34e0eaa3_f84665021",
+      "reason": "",
+      "unavailableTime": [
+        {
+          "day": "20170525",
+          "time": "00:00:00-00:00:59,05:00:01-07:59:59,23:59:01-23:59:59"
+        },
+        {
+          "day": "20170526",
+          "time": "00:00:00-00:00:59,05:00:01-07:59:59,23:59:01-23:59:59"
+        },
+        {
+          "day": "20170527",
+          "time": "00:00:00-00:00:59,05:00:01-07:59:59,23:59:01-23:59:59"
+        }
+      ],
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_WAIMAI",
+        "id": "84665021",
+        "position": "1",
+        "type": "waimai"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/57a880d01d9cdeeba32fb73c0b1bb3b284313.jpg@133_0_534_534a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "老炮鸭",
+      "subTitle": "[2店通用] 午市4人餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "119",
+      "subMessage": "门市价:¥189",
+      "topRightInfo": "687m",
+      "bottomRightInfo": "已售1186",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "41728465",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "午市4人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055367880704_c1_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "41728465",
+        "position": "2",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/200.200/xianfu/16a75205104dc5166254c278771f7b53332336.jpg.webp",
+      "imageTag": "0",
+      "title": "湘赣木桶饭",
+      "imageTitle": "http://p0.meituan.net/groupop/df92b87c4a50cb952406cb116ecf02691800.png",
+      "subTitle": "38分钟送达",
+      "subTitle2": "起送价¥15|配送费¥3",
+      "subMessage": "满20减12, 满45...",
+      "bottomRightInfo": "月售8213",
+      "_type": "waimai",
+      "_from": "POI_WAIMAI",
+      "_id": "42394208",
+      "_iUrl": "imeituan://www.meituan.com/takeout/foods?poi_id=120282&ct_poi=865486055426740224_c2_ef77849136e4aeda9b84d488f34e0eaa3_f42394208",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#06c1ae"
+      },
+      "ct_poi": "865486055426740224_c2_ef77849136e4aeda9b84d488f34e0eaa3_f42394208",
+      "reason": "",
+      "unavailableTime": [
+        {
+          "day": "20170525",
+          "time": "00:00:00-09:44:59,21:20:01-23:59:59"
+        },
+        {
+          "day": "20170526",
+          "time": "00:00:00-09:44:59,21:20:01-23:59:59"
+        },
+        {
+          "day": "20170527",
+          "time": "00:00:00-09:44:59,21:20:01-23:59:59"
+        }
+      ],
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_WAIMAI",
+        "id": "42394208",
+        "position": "3",
+        "type": "waimai"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/200.200/xianfu/14f07a85e50fb3143890da0d15488b19172405.jpg.webp",
+      "imageTag": "0",
+      "title": "湘攸大碗菜",
+      "imageTitle": "http://p0.meituan.net/groupop/df92b87c4a50cb952406cb116ecf02691800.png",
+      "subTitle": "35分钟送达",
+      "subTitle2": "起送价¥15|配送费¥4",
+      "subMessage": "满22减17, 满45...",
+      "bottomRightInfo": "月售9715",
+      "_type": "waimai",
+      "_from": "POI_WAIMAI",
+      "_id": "5755572",
+      "_iUrl": "imeituan://www.meituan.com/takeout/foods?poi_id=246471&ct_poi=865486213119778816_c3_ef77849136e4aeda9b84d488f34e0eaa3_f5755572",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#06c1ae"
+      },
+      "ct_poi": "865486213119778816_c3_ef77849136e4aeda9b84d488f34e0eaa3_f5755572",
+      "reason": "",
+      "unavailableTime": [
+        {
+          "day": "20170525",
+          "time": "00:00:00-09:59:59,15:00:01-16:44:59,20:30:01-23:59:59"
+        },
+        {
+          "day": "20170526",
+          "time": "00:00:00-09:59:59,15:00:01-16:44:59,20:30:01-23:59:59"
+        },
+        {
+          "day": "20170527",
+          "time": "00:00:00-09:59:59,15:00:01-16:44:59,20:30:01-23:59:59"
+        }
+      ],
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_WAIMAI",
+        "id": "5755572",
+        "position": "4",
+        "type": "waimai"
+      }
+    },
+    {
+      "imageUrl": "https://qcloud.dpfile.com/pc/WjY-l9Ruz4cWF5zxbIbK3Li_Oxh-cvTGoLxbZzNz3mFNBRACZkTDeA3ojU_otiQD.jpg",
+      "imageTag": "0",
+      "title": "德尚煌顺德菜",
+      "subTitle": "[客村/赤岗] 粤菜",
+      "mainMessage": "¥",
+      "mainMessage2": "82",
+      "subMessage": "起",
+      "topRightInfo": "6.1km",
+      "bottomRightInfo": "已售 1227",
+      "_type": "poi",
+      "_from": "POI_AD",
+      "_id": "41817516",
+      "_iUrl": "",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015148777472_c4_ef77849136e4aeda9b84d488f34e0eaa3_f41817516",
+      "_ad": {
+        "extra": {
+          "position": "5",
+          "fixPos": "true",
+          "_ad": "{\"extra\":{\"position\":\"5\",\"fixPos\":\"true\",\"_ad\":\"{\\\"extra\\\":{},\\\"slotId\\\":50007,\\\"stId\\\":\\\"838663269358252032\\\",\\\"adId\\\":41817516,\\\"dType\\\":\\\"POI_AD\\\",\\\"cityId\\\":20,\\\"launchId\\\":20076585,\\\"displayId\\\":10,\\\"shopId\\\":41817516,\\\"feedback\\\":\\\"algo_version%3D0%26adshop_id%3D23125828%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D31635071%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D41817516%26mtpage_city_id%3D20%26rmp%3Dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA%26mtuser_id%3D160495643%26entityid%3D41817516%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D1829634%26mtshop_id%3D0%26ad%3D20076585%26sver%3D2%26display_id%3D10\\\",\\\"impUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d23125828\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d31635071\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d41817516\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d41817516\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d1829634\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d20076585\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d3\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"clickUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d23125828\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d31635071\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d41817516\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d41817516\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d1829634\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d20076585\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d2\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"imgUrl\\\":\\\"\\\",\\\"adIconUrl\\\":\\\"\\\"}\"},\"slotId\":50007,\"stId\":\"838663269358252032\",\"adId\":41817516,\"dType\":\"POI_AD\",\"cityId\":20,\"launchId\":20076585,\"displayId\":10,\"shopId\":41817516,\"feedback\":\"algo_version%3D0%26adshop_id%3D23125828%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D31635071%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D41817516%26mtpage_city_id%3D20%26rmp%3Dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA%26mtuser_id%3D160495643%26entityid%3D41817516%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D1829634%26mtshop_id%3D0%26ad%3D20076585%26sver%3D2%26display_id%3D10\",\"impUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d23125828\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d31635071\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d41817516\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d41817516\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d1829634\\u0026mtshop_id\\u003d0\\u0026ad\\u003d20076585\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d3\\u0026adidx\\u003d5\",\"clickUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d23125828\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d31635071\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d41817516\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d41817516\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d1829634\\u0026mtshop_id\\u003d0\\u0026ad\\u003d20076585\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d2\\u0026adidx\\u003d5\",\"imgUrl\":\"\",\"adIconUrl\":\"\"}"
+        },
+        "slotId": 50007,
+        "stId": "838663269358252032",
+        "adId": 41817516,
+        "dType": "POI_AD",
+        "cityId": 20,
+        "launchId": 20076585,
+        "displayId": 10,
+        "shopId": 41817516,
+        "feedback": "algo_version%3D0%26adshop_id%3D23125828%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D31635071%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D41817516%26mtpage_city_id%3D20%26rmp%3Dm0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA%26mtuser_id%3D160495643%26entityid%3D41817516%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D1829634%26mtshop_id%3D0%26ad%3D20076585%26sver%3D2%26display_id%3D10",
+        "impUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=23125828&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=31635071&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=41817516&mtpage_city_id=20&rmp=m0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA&mtuser_id=160495643&entityid=41817516&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=1829634&mtshop_id=0&ad=20076585&sver=2&display_id=10&act=3&adidx=5",
+        "clickUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=23125828&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=31635071&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=41817516&mtpage_city_id=20&rmp=m0oZUNl4jHv-oT9aT8jYUBJmSa_we4L643D2nEPyP1pc-MA&mtuser_id=160495643&entityid=41817516&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=1829634&mtshop_id=0&ad=20076585&sver=2&display_id=10&act=2&adidx=5",
+        "imgUrl": "",
+        "adIconUrl": ""
+      },
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_AD",
+        "id": "41817516",
+        "position": "5",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/616e397bc1e5ca06db58288a527603fa33793.jpg@126_0_388_388a%7C267h_267w_2e_100Q",
+      "imageTag": "3",
+      "title": "四季茶楼",
+      "subTitle": "[天河公园/上社] 美味双人餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "48",
+      "subMessage": "门市价:¥88",
+      "topRightInfo": "696m",
+      "bottomRightInfo": "已售1",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "45160596",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "美味双人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015014531072_c5_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "45160596",
+        "position": "6",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/409ac7386c9c5bd6d68f5bc601562131124637.jpg",
+      "imageTag": "3",
+      "title": "锅将军正宗桂林米粉",
+      "subTitle": "[天河公园/上社] 正宗双拼粉（腐竹、鸡蛋、鸡爪、鸭爪可任选一种搭配）1份",
+      "mainMessage": "¥",
+      "mainMessage2": "11",
+      "subMessage": "门市价:¥14",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售1055",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "28962370",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "正宗双拼粉"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015178035200_c6_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "28962370",
+        "position": "7",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/c6f23027946f121a6ec28a0f9cf3b5eb98094.jpg@117_0_468_468a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "豪苑酒家",
+      "subTitle": "[天河公园/上社] 实惠6人餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "128",
+      "subMessage": "门市价:¥446",
+      "topRightInfo": "610m",
+      "bottomRightInfo": "已售184",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42921793",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-27,2017-04-29,2017-05-13,2017-05-20,2017-05-26\",\"useDay\":\"1\",\"endDate\":\"2017-02-01,2017-05-01,2017-05-14,2017-05-21,2017-05-30\"}",
+          "81": "实惠6人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055367880704_c7_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42921793",
+        "position": "8",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/d9114f14de32ef9e9685ffd1679711d149946.jpg",
+      "imageTag": "3",
+      "title": "甄朴 牛腩煲",
+      "subTitle": "[天河公园/上社] 超值牛筋牛腩煲，建议2人使用",
+      "mainMessage": "¥",
+      "mainMessage2": "88",
+      "subMessage": "门市价:¥122",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售3262",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "32506079",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "超值牛筋牛腩煲"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015178035200_c8_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "32506079",
+        "position": "9",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "https://img.meituan.net/w.h/msmerchant/ae881c50fc043d0d3d07306cf61029bc121225.jpg%40watermark%3D0",
+      "imageTag": "0",
+      "title": "香辣e族",
+      "subTitle": "[车陂] 川菜",
+      "mainMessage": "¥",
+      "mainMessage2": "48",
+      "subMessage": "起",
+      "topRightInfo": "2.4km",
+      "bottomRightInfo": "已售 114",
+      "_type": "poi",
+      "_from": "POI_AD",
+      "_id": "157825403",
+      "_iUrl": "",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015148777472_c9_ef77849136e4aeda9b84d488f34e0eaa3_f157825403",
+      "_ad": {
+        "extra": {
+          "position": "10",
+          "fixPos": "true",
+          "_ad": "{\"extra\":{\"position\":\"10\",\"fixPos\":\"true\",\"_ad\":\"{\\\"extra\\\":{},\\\"slotId\\\":50007,\\\"stId\\\":\\\"838663269358252032\\\",\\\"adId\\\":157825403,\\\"dType\\\":\\\"POI_AD\\\",\\\"cityId\\\":20,\\\"launchId\\\":22191297,\\\"displayId\\\":10,\\\"shopId\\\":157825403,\\\"feedback\\\":\\\"algo_version%3D0%26adshop_id%3D91037747%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D45060609%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D157825403%26mtpage_city_id%3D20%26rmp%3DwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw%26mtuser_id%3D160495643%26entityid%3D157825403%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4538398%26mtshop_id%3D0%26ad%3D22191297%26sver%3D2%26display_id%3D10\\\",\\\"impUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d91037747\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d45060609\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d157825403\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d157825403\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d4538398\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d22191297\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d3\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"clickUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d91037747\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d45060609\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d157825403\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d157825403\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d4538398\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d22191297\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d2\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"imgUrl\\\":\\\"\\\",\\\"adIconUrl\\\":\\\"\\\"}\"},\"slotId\":50007,\"stId\":\"838663269358252032\",\"adId\":157825403,\"dType\":\"POI_AD\",\"cityId\":20,\"launchId\":22191297,\"displayId\":10,\"shopId\":157825403,\"feedback\":\"algo_version%3D0%26adshop_id%3D91037747%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D45060609%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D157825403%26mtpage_city_id%3D20%26rmp%3DwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw%26mtuser_id%3D160495643%26entityid%3D157825403%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4538398%26mtshop_id%3D0%26ad%3D22191297%26sver%3D2%26display_id%3D10\",\"impUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d91037747\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d45060609\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d157825403\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d157825403\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d4538398\\u0026mtshop_id\\u003d0\\u0026ad\\u003d22191297\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d3\\u0026adidx\\u003d10\",\"clickUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d91037747\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d45060609\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d157825403\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d157825403\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d4538398\\u0026mtshop_id\\u003d0\\u0026ad\\u003d22191297\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d2\\u0026adidx\\u003d10\",\"imgUrl\":\"\",\"adIconUrl\":\"\"}"
+        },
+        "slotId": 50007,
+        "stId": "838663269358252032",
+        "adId": 157825403,
+        "dType": "POI_AD",
+        "cityId": 20,
+        "launchId": 22191297,
+        "displayId": 10,
+        "shopId": 157825403,
+        "feedback": "algo_version%3D0%26adshop_id%3D91037747%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D45060609%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D157825403%26mtpage_city_id%3D20%26rmp%3DwcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw%26mtuser_id%3D160495643%26entityid%3D157825403%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4538398%26mtshop_id%3D0%26ad%3D22191297%26sver%3D2%26display_id%3D10",
+        "impUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=91037747&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=45060609&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=157825403&mtpage_city_id=20&rmp=wcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw&mtuser_id=160495643&entityid=157825403&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=4538398&mtshop_id=0&ad=22191297&sver=2&display_id=10&act=3&adidx=10",
+        "clickUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=91037747&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=45060609&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=157825403&mtpage_city_id=20&rmp=wcQvJ08MpzNHMY2Sedpcy35ZLpr684nv95emN5HHTEsCzw&mtuser_id=160495643&entityid=157825403&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=4538398&mtshop_id=0&ad=22191297&sver=2&display_id=10&act=2&adidx=10",
+        "imgUrl": "",
+        "adIconUrl": ""
+      },
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_AD",
+        "id": "157825403",
+        "position": "10",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/deal/__40466446__4174537.jpg",
+      "imageTag": "特惠",
+      "title": "车陂国际影城",
+      "imageTitle": "",
+      "subTitle": "[车陂] 摔跤吧！爸爸(9.8分)正在热映",
+      "mainMessage": "¥",
+      "mainMessage2": "19.9",
+      "subMessage": "起",
+      "campaign": {
+        "tag": "3部影片特惠",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "2.5km",
+      "_type": "poi",
+      "_from": "MPOI_MOVIE",
+      "_id": "5602950",
+      "_iUrl": "imeituan://www.meituan.com/merchant?id=5602950&channel=cinema&cinemaDeals=1&ct_poi=865486168735621120_c10_ef77849136e4aeda9b84d488f34e0eaa3_f5602950",
+      "_jumpNeed": {
+        "channel": "",
+        "iUrl": "imeituan://www.meituan.com/merchant?id=5602950&channel=cinema&cinemaDeals=1&ct_poi=865486168735621120_c10_ef77849136e4aeda9b84d488f34e0eaa3_f5602950"
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486168735621120_c10_ef77849136e4aeda9b84d488f34e0eaa3_f5602950",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "MPOI_MOVIE",
+        "id": "5602950",
+        "position": "11",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/37a7b3d18db3ec74c94eab8d336951c221495.jpg@75_0_290_290a%7C267h_267w_2e_100Q",
+      "imageTag": "3",
+      "title": "小龙坎老火锅",
+      "subTitle": "[兴盛路/猎德] 小鲜肉，建议2-4人使用",
+      "mainMessage": "¥",
+      "mainMessage2": "9.9",
+      "subMessage": "门市价:¥55",
+      "topRightInfo": "4.6km",
+      "bottomRightInfo": "已售68",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44198156",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-04-02\",\"weekday\":\"6,7\",\"useDay\":\"0\",\"endDate\":\"2017-04-04\"}",
+          "81": "小鲜肉"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486181192859648_c11_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "此味只能天上有,人间难得几回尝",
+      "reasonId": "10020",
+      "mge": {
+        "reasonid": "10020",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44198156",
+        "position": "12",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/69716a1d3432d84ca19cf980225e166236352.jpg@267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "帝一虾舖",
+      "subTitle": "[棠下] 劲爆虾捞套餐，建议2-4人使用",
+      "mainMessage": "¥",
+      "mainMessage2": "188",
+      "subMessage": "门市价:¥297",
+      "topRightInfo": "1.0km",
+      "bottomRightInfo": "已售324",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42457485",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-16,2017-02-14,2017-03-03,2017-03-31\",\"useDay\":\"1\",\"endDate\":\"2017-02-06,2017-02-14,2017-03-03,2017-03-31\"}",
+          "81": "劲爆虾捞套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486484692750336_c12_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42457485",
+        "position": "13",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/deal/201209/26/1_0926111056.jpg",
+      "imageTag": "特惠",
+      "title": "天河电影城(天娱广场店)",
+      "imageTitle": "",
+      "subTitle": "[岗顶/龙口] 摔跤吧！爸爸(9.8分)正在热映",
+      "mainMessage": "¥",
+      "mainMessage2": "9.9",
+      "subMessage": "起",
+      "campaign": {
+        "tag": "2部影片特惠",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "3.5km",
+      "_type": "poi",
+      "_from": "MPOI_MOVIE",
+      "_id": "85597",
+      "_iUrl": "imeituan://www.meituan.com/merchant?id=85597&channel=cinema&cinemaDeals=1&ct_poi=865486015232647168_c13_ef77849136e4aeda9b84d488f34e0eaa3_f85597",
+      "_jumpNeed": {
+        "channel": "",
+        "iUrl": "imeituan://www.meituan.com/merchant?id=85597&channel=cinema&cinemaDeals=1&ct_poi=865486015232647168_c13_ef77849136e4aeda9b84d488f34e0eaa3_f85597"
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015232647168_c13_ef77849136e4aeda9b84d488f34e0eaa3_f85597",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "MPOI_MOVIE",
+        "id": "85597",
+        "position": "14",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "https://img.meituan.net/w.h/msmerchant/bdac60b0833152e8b340998e16ec4679274241.jpg%40watermark%3D0",
+      "imageTag": "0",
+      "title": "聚椒(麻辣香锅&川味小食)",
+      "subTitle": "[正佳广场] 川菜",
+      "mainMessage": "¥",
+      "mainMessage2": "48",
+      "subMessage": "起",
+      "topRightInfo": "4.8km",
+      "bottomRightInfo": "已售 296",
+      "_type": "poi",
+      "_from": "POI_AD",
+      "_id": "156625604",
+      "_iUrl": "",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015148777472_c14_ef77849136e4aeda9b84d488f34e0eaa3_f156625604",
+      "_ad": {
+        "extra": {
+          "position": "15",
+          "fixPos": "true",
+          "_ad": "{\"extra\":{\"position\":\"15\",\"fixPos\":\"true\",\"_ad\":\"{\\\"extra\\\":{},\\\"slotId\\\":50007,\\\"stId\\\":\\\"838663269358252032\\\",\\\"adId\\\":156625604,\\\"dType\\\":\\\"POI_AD\\\",\\\"cityId\\\":20,\\\"launchId\\\":22082314,\\\"displayId\\\":10,\\\"shopId\\\":156625604,\\\"feedback\\\":\\\"algo_version%3D0%26adshop_id%3D83468234%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D44229306%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D156625604%26mtpage_city_id%3D20%26rmp%3Dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk%26mtuser_id%3D160495643%26entityid%3D156625604%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4224291%26mtshop_id%3D0%26ad%3D22082314%26sver%3D2%26display_id%3D10\\\",\\\"impUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d83468234\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d44229306\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d156625604\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d156625604\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d4224291\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d22082314\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d3\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"clickUrl\\\":\\\"https://mlog.dianping.com/mtlog?algo_version\\\\u003d0\\\\u0026adshop_id\\\\u003d83468234\\\\u0026launch_city_id\\\\u003d4\\\\u0026lng\\\\u003d113.373951\\\\u0026mtdpreqid\\\\u003d838663269358252032\\\\u0026mtlaunch_city_id\\\\u003d20\\\\u0026productid\\\\u003d74\\\\u0026mtaddeal_id\\\\u003d44229306\\\\u0026slot\\\\u003d50007\\\\u0026lat\\\\u003d23.134643\\\\u0026entitytype\\\\u003d1\\\\u0026mtdpid\\\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\\\u0026mtadshop_id\\\\u003d156625604\\\\u0026mtpage_city_id\\\\u003d20\\\\u0026rmp\\\\u003dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk\\\\u0026mtuser_id\\\\u003d160495643\\\\u0026entityid\\\\u003d156625604\\\\u0026entityplat\\\\u003d2\\\\u0026request_Id\\\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\\\u0026target_id\\\\u003d4224291\\\\u0026mtshop_id\\\\u003d0\\\\u0026ad\\\\u003d22082314\\\\u0026sver\\\\u003d2\\\\u0026display_id\\\\u003d10\\\\u0026act\\\\u003d2\\\\u0026adidx\\\\u003d${adIndex}\\\",\\\"imgUrl\\\":\\\"\\\",\\\"adIconUrl\\\":\\\"\\\"}\"},\"slotId\":50007,\"stId\":\"838663269358252032\",\"adId\":156625604,\"dType\":\"POI_AD\",\"cityId\":20,\"launchId\":22082314,\"displayId\":10,\"shopId\":156625604,\"feedback\":\"algo_version%3D0%26adshop_id%3D83468234%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D44229306%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D156625604%26mtpage_city_id%3D20%26rmp%3Dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk%26mtuser_id%3D160495643%26entityid%3D156625604%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4224291%26mtshop_id%3D0%26ad%3D22082314%26sver%3D2%26display_id%3D10\",\"impUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d83468234\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d44229306\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d156625604\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d156625604\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d4224291\\u0026mtshop_id\\u003d0\\u0026ad\\u003d22082314\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d3\\u0026adidx\\u003d15\",\"clickUrl\":\"https://mlog.dianping.com/mtlog?algo_version\\u003d0\\u0026adshop_id\\u003d83468234\\u0026launch_city_id\\u003d4\\u0026lng\\u003d113.373951\\u0026mtdpreqid\\u003d838663269358252032\\u0026mtlaunch_city_id\\u003d20\\u0026productid\\u003d74\\u0026mtaddeal_id\\u003d44229306\\u0026slot\\u003d50007\\u0026lat\\u003d23.134643\\u0026entitytype\\u003d1\\u0026mtdpid\\u003d5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271\\u0026mtadshop_id\\u003d156625604\\u0026mtpage_city_id\\u003d20\\u0026rmp\\u003dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk\\u0026mtuser_id\\u003d160495643\\u0026entityid\\u003d156625604\\u0026entityplat\\u003d2\\u0026request_Id\\u003d183003f5-547e-49e2-ad4c-0c04b5141b3a\\u0026target_id\\u003d4224291\\u0026mtshop_id\\u003d0\\u0026ad\\u003d22082314\\u0026sver\\u003d2\\u0026display_id\\u003d10\\u0026act\\u003d2\\u0026adidx\\u003d15\",\"imgUrl\":\"\",\"adIconUrl\":\"\"}"
+        },
+        "slotId": 50007,
+        "stId": "838663269358252032",
+        "adId": 156625604,
+        "dType": "POI_AD",
+        "cityId": 20,
+        "launchId": 22082314,
+        "displayId": 10,
+        "shopId": 156625604,
+        "feedback": "algo_version%3D0%26adshop_id%3D83468234%26launch_city_id%3D4%26lng%3D113.373951%26mtdpreqid%3D838663269358252032%26mtlaunch_city_id%3D20%26productid%3D74%26mtaddeal_id%3D44229306%26slot%3D50007%26lat%3D23.134643%26entitytype%3D1%26mtdpid%3D5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271%26mtadshop_id%3D156625604%26mtpage_city_id%3D20%26rmp%3Dj9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk%26mtuser_id%3D160495643%26entityid%3D156625604%26entityplat%3D2%26request_Id%3D183003f5-547e-49e2-ad4c-0c04b5141b3a%26target_id%3D4224291%26mtshop_id%3D0%26ad%3D22082314%26sver%3D2%26display_id%3D10",
+        "impUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=83468234&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=44229306&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=156625604&mtpage_city_id=20&rmp=j9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk&mtuser_id=160495643&entityid=156625604&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=4224291&mtshop_id=0&ad=22082314&sver=2&display_id=10&act=3&adidx=15",
+        "clickUrl": "https://mlog.dianping.com/mtlog?algo_version=0&adshop_id=83468234&launch_city_id=4&lng=113.373951&mtdpreqid=838663269358252032&mtlaunch_city_id=20&productid=74&mtaddeal_id=44229306&slot=50007&lat=23.134643&entitytype=1&mtdpid=5C7B6342814C7B496D836A69C872202B5DE8DB689A2D777DFC717E10FC0B4271&mtadshop_id=156625604&mtpage_city_id=20&rmp=j9RdUcjJFlKm0LQcwbXpEUBlIwPwXZpOkcb4_KpfRKCk&mtuser_id=160495643&entityid=156625604&entityplat=2&request_Id=183003f5-547e-49e2-ad4c-0c04b5141b3a&target_id=4224291&mtshop_id=0&ad=22082314&sver=2&display_id=10&act=2&adidx=15",
+        "imgUrl": "",
+        "adIconUrl": ""
+      },
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_AD",
+        "id": "156625604",
+        "position": "15",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/6b182eb0a2fe4e187fe83a65958c0355734061.png@177_0_396_396a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "比哥鸡排",
+      "subTitle": "[天河公园/上社] 香酥鸡排1份，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "11.88",
+      "subMessage": "门市价:¥15",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售2",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "45013515",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "经典套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c15_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "45013515",
+        "position": "16",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/693e21d43ffe4c886145ed3468b43389306457.jpg@267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "牛业汕头福合埕牛肉火锅",
+      "subTitle": "[岗顶/龙口] 特价双人餐火锅，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "9.9",
+      "subMessage": "门市价:¥40",
+      "topRightInfo": "4.0km",
+      "bottomRightInfo": "已售1",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44334506",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "特价双人餐火锅"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486181192859648_c16_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44334506",
+        "position": "17",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/5456a31fdc7e94d7f5cb6a803a2893b089528.jpg@116_0_469_469a%7C267h_267w_2e_100Q",
+      "imageTag": "3",
+      "title": "忆口香小龙虾",
+      "subTitle": "[棠下] 特色小龙虾1斤，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "39",
+      "subMessage": "门市价:¥48",
+      "topRightInfo": "1.3km",
+      "bottomRightInfo": "已售4937",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "37821506",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2016-10-19\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"2016-11-17\"}",
+          "81": "小龙虾一斤"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486014972645376_c17_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "37821506",
+        "position": "18",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/__44270262__3445865.jpg@126_0_388_388a%7C267h_267w_2e_100Q",
+      "imageTag": "3",
+      "title": "大虾·请留步",
+      "subTitle": "[2店通用] 特色小龙虾1斤，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "38",
+      "subMessage": "门市价:¥49",
+      "topRightInfo": "17.2km",
+      "bottomRightInfo": "已售2797",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "37970428",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "特色小龙虾"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486213119778816_c18_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "37970428",
+        "position": "19",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/movie/ee5e691b425292f455c3eac5c628cfc7904509.png@200w_200h_1e_1c",
+      "imageTag": "0",
+      "title": "加勒比海盗5：死无对证",
+      "subTitle": "喜剧,动作,奇幻",
+      "subTitle2": "2017-05-26本周五上映",
+      "mainMessage": "¥",
+      "mainMessage2": "8.9",
+      "subMessage": "起",
+      "campaign": {
+        "tag": "特惠选座"
+      },
+      "topRightInfo": "513185人想看",
+      "_type": "film",
+      "_from": "FILM",
+      "_id": "246012",
+      "_iUrl": "imeituan://www.meituan.com/movie/cinemalist?movie_id=246012&coupon=choosesitting&stid=865486015274610688_c19_ef77849136e4aeda9b84d488f34e0eaa3",
+      "_jumpNeed": {
+        "iUrl": "imeituan://www.meituan.com/movie/cinemalist?movie_id=246012&coupon=choosesitting&stid=865486015274610688_c19_ef77849136e4aeda9b84d488f34e0eaa3"
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015274610688_c19_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "imageTagIcon": "http://p0.meituan.net/movie/e1b23b8e29e0df1fe9f2994a49980b6e2480.png",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "FILM",
+        "id": "246012",
+        "position": "20",
+        "type": "film"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/1daed49ea20c5183e7c1366b1dfe0016261504.jpg@141_0_317_317a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "新百花化州糖水",
+      "subTitle": "[天河公园/上社] 椰西芒果哈密瓜果捞1份",
+      "mainMessage": "¥",
+      "mainMessage2": "10",
+      "subMessage": "门市价:¥12",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售4",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "41323399",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "椰西三色芋圆"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c20_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "41323399",
+        "position": "21",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/200.200/xianfu/a3aee04b06c9e3bc39fabeb78c7b8785161790.jpg.webp",
+      "imageTag": "0",
+      "title": "潮汕原味肠粉（棠下店）",
+      "imageTitle": "http://p0.meituan.net/groupop/df92b87c4a50cb952406cb116ecf02691800.png",
+      "subTitle": "34分钟送达",
+      "subTitle2": "起送价¥20|配送费¥3",
+      "subMessage": "满25减9, 满45减...",
+      "bottomRightInfo": "月售1462",
+      "_type": "waimai",
+      "_from": "POI_WAIMAI",
+      "_id": "92805505",
+      "_iUrl": "imeituan://www.meituan.com/takeout/foods?poi_id=912943&ct_poi=865486181226262528_c21_ef77849136e4aeda9b84d488f34e0eaa3_f92805505",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#06c1ae"
+      },
+      "ct_poi": "865486181226262528_c21_ef77849136e4aeda9b84d488f34e0eaa3_f92805505",
+      "reason": "",
+      "unavailableTime": [
+        {
+          "day": "20170525",
+          "time": "00:00:00-00:00:59,09:59:01-09:59:59,23:59:01-23:59:59"
+        },
+        {
+          "day": "20170526",
+          "time": "00:00:00-00:00:59,09:59:01-09:59:59,23:59:01-23:59:59"
+        },
+        {
+          "day": "20170527",
+          "time": "00:00:00-00:00:59,09:59:01-09:59:59,23:59:01-23:59:59"
+        }
+      ],
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_WAIMAI",
+        "id": "92805505",
+        "position": "22",
+        "type": "waimai"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/447a0849284b1d3ed7e8990b8463ca4174304.jpg@126_0_388_388a%7C267h_267w_2e_100Q",
+      "imageTag": "3",
+      "title": "十分牛焰火牛排",
+      "subTitle": "[3店通用] 牛排2人餐，免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "82",
+      "subMessage": "门市价:¥189",
+      "topRightInfo": "3.4km",
+      "bottomRightInfo": "已售148567",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "25243850",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "✨十分·金典套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055544160256_c22_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "25243850",
+        "position": "23",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/0bc87fcc086b416530e363f61dff9e4f80656.jpg@117_0_468_468a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "洛米堤自助西餐厅",
+      "subTitle": "[北京路商业区] 单人自助西餐",
+      "mainMessage": "¥",
+      "mainMessage2": "38.8",
+      "subMessage": "门市价:¥59",
+      "topRightInfo": "11.3km",
+      "bottomRightInfo": "已售15343",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42987093",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "单人自助西餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486213119778816_c23_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42987093",
+        "position": "24",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/160f3ff47db1b58da3cdc0f092103fdf67920.jpg@104_0_489_489a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "港式8号牛扒",
+      "subTitle": "[车陂] 超值单人餐C，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "16.9",
+      "subMessage": "门市价:¥38.5",
+      "topRightInfo": "2.5km",
+      "bottomRightInfo": "已售2176",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "41605717",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-26\",\"useDay\":\"1\",\"endDate\":\"2017-02-04\"}",
+          "81": "超值单人餐C"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015111045120_c24_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "41605717",
+        "position": "25",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/ee435ea4666f3ff1e06f1957ac09645234583.jpg",
+      "imageTag": "3",
+      "title": "意达比萨",
+      "subTitle": "[3店通用] 金枕榴莲比萨1次",
+      "mainMessage": "¥",
+      "mainMessage2": "49",
+      "subMessage": "",
+      "campaign": {
+        "tag": "新客减15",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "670m",
+      "bottomRightInfo": "已售4581",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "33095612",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486323480293376_c25_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "33095612",
+        "position": "26",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/ec8e12cb09eb4f172dc3069f7d0aeccf45245.jpg",
+      "imageTag": "0",
+      "title": "尊玉比萨",
+      "subTitle": "[3店通用] 10英寸双人比萨1份，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "38",
+      "subMessage": "门市价:¥59",
+      "topRightInfo": "11.1km",
+      "bottomRightInfo": "已售11661",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "5561069",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"2015年2月18日至2月22日\",\"useDay\":\"1\",\"endDate\":\"\"}"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486213119778816_c26_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "5561069",
+        "position": "27",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/fbf75c70a7b4b988e328c71638afd1db1357012.jpg@748_0_3000_3000a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "稻香酒家",
+      "subTitle": "[多城市] 酱香狮头鹅火锅餐，建议2人使用",
+      "mainMessage": "¥",
+      "mainMessage2": "42",
+      "subMessage": "门市价:¥168",
+      "topRightInfo": "3.3km",
+      "bottomRightInfo": "已售49076",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44814984",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-05-14\",\"useDay\":\"1\",\"endDate\":\"2017-05-14\"}",
+          "81": "酱香狮头鹅火锅餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486014972645376_c27_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44814984",
+        "position": "28",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/78749930f6c895d6b4178b60401fc1f3177756.jpg@176_0_704_704a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "海银海记潮汕牛肉火锅",
+      "subTitle": "[7店通用] 100元闲时代金券1张",
+      "mainMessage": "¥",
+      "mainMessage2": "68",
+      "subMessage": "门市价:¥100",
+      "topRightInfo": "2.5km",
+      "bottomRightInfo": "已售1162",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "43819769",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "13": "1"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486181192859648_c28_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "43819769",
+        "position": "29",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/deal/__15156565__5921919.jpg",
+      "imageTag": "特惠",
+      "title": "中影国际影城(太阳新天地店)",
+      "imageTitle": "",
+      "subTitle": "[跑马场] 摔跤吧！爸爸(9.8分)正在热映",
+      "mainMessage": "¥",
+      "mainMessage2": "9.9",
+      "subMessage": "起",
+      "campaign": {
+        "tag": "3部影片特惠",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "3.3km",
+      "_type": "poi",
+      "_from": "MPOI_MOVIE",
+      "_id": "1535757",
+      "_iUrl": "imeituan://www.meituan.com/merchant?id=1535757&channel=cinema&cinemaDeals=1&ct_poi=865486168735621120_c29_ef77849136e4aeda9b84d488f34e0eaa3_f1535757",
+      "_jumpNeed": {
+        "channel": "",
+        "iUrl": "imeituan://www.meituan.com/merchant?id=1535757&channel=cinema&cinemaDeals=1&ct_poi=865486168735621120_c29_ef77849136e4aeda9b84d488f34e0eaa3_f1535757"
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486168735621120_c29_ef77849136e4aeda9b84d488f34e0eaa3_f1535757",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "MPOI_MOVIE",
+        "id": "1535757",
+        "position": "30",
+        "type": "poi"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/def70392934bea25b03ec98d6aa902e6621062.jpg@570_0_2280_2280a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "大嘴猫老成都串串火锅",
+      "subTitle": "[3店通用] 100元代金券1张，全场通用",
+      "mainMessage": "¥",
+      "mainMessage2": "88",
+      "subMessage": "门市价:¥100",
+      "topRightInfo": "1.4km",
+      "bottomRightInfo": "已售6310",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42471633",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-25\",\"useDay\":\"1\",\"endDate\":\"2017-02-04\"}",
+          "13": "1"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486323480293376_c30_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42471633",
+        "position": "31",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/9bfc70b0fc69f584e592376a2db0624133717.jpg@73_0_300_300a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "串游",
+      "subTitle": "[天河城/体育西] 双人套餐，包间免费",
+      "mainMessage": "¥",
+      "mainMessage2": "88",
+      "subMessage": "门市价:¥101",
+      "topRightInfo": "5.1km",
+      "bottomRightInfo": "已售1014",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "37480541",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "双人套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486213119778816_c31_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "37480541",
+        "position": "32",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/d7abf77953346d33b74b09a0d2a2ef56319698.png@142_0_316_316a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "萨窝甜品",
+      "subTitle": "[天河公园/上社] 咖喱板栗鸡粒炒饭+烧仙草，建议单人使用",
+      "mainMessage": "¥",
+      "mainMessage2": "21",
+      "subMessage": "门市价:¥24",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售3",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44367885",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "咖喱板栗鸡粒炒饭+烧仙草"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015178035200_c32_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44367885",
+        "position": "33",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/975456444bb10d710a5fd03e9d043d8283061.jpg",
+      "imageTag": "3",
+      "title": "客家面馆",
+      "subTitle": "[天河公园/上社] 美味客家面单人餐",
+      "mainMessage": "¥",
+      "mainMessage2": "10.9",
+      "subMessage": "门市价:¥12",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售429",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "30775134",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "美味客家面单人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c34_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "30775134",
+        "position": "34",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/0b060fcfe13c24242bfb311767429ace57518.jpg@182_0_454_454a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "牛坤顺记潮汕牛肉",
+      "subTitle": "[车陂] 午市、宵夜6人餐",
+      "mainMessage": "¥",
+      "mainMessage2": "268",
+      "subMessage": "门市价:¥389",
+      "topRightInfo": "2.7km",
+      "bottomRightInfo": "已售4",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "45141643",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "午市、宵夜6人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486181192859648_c35_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "45141643",
+        "position": "35",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/__13680167__3623745.jpg",
+      "imageTag": "0",
+      "title": "荔枝楼酒家",
+      "subTitle": "[车陂] 4人套餐，周六日用餐需到店另付10元",
+      "mainMessage": "¥",
+      "mainMessage2": "99",
+      "subMessage": "门市价:¥211",
+      "topRightInfo": "2.7km",
+      "bottomRightInfo": "已售7990",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "1080389",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-27\",\"useDay\":\"1\",\"endDate\":\"2017-02-03\"}"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486484692750336_c36_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "1080389",
+        "position": "36",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/a01b6f171e5bc1ac03f1c8123288fdc41731994.jpg@520_0_3120_3120a%7C267h_267w_2e_90Q",
+      "imageTag": "0",
+      "title": "安铂西餐",
+      "subTitle": "[岗顶/龙口] 精选单人自助餐",
+      "mainMessage": "¥",
+      "mainMessage2": "108",
+      "subMessage": "门市价:¥176",
+      "topRightInfo": "3.5km",
+      "bottomRightInfo": "已售17405",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "25996114",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-02-16\",\"useDay\":\"1\",\"endDate\":\"2017-02-16\"}",
+          "81": "精选单人自助餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055464419328_c37_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "25996114",
+        "position": "37",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/fbe6b864caca20bba4aff7c78913d7e82311126.jpg@0_408_2448_2448a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "品然素食自助餐",
+      "subTitle": "[棠下] 通用自助餐",
+      "mainMessage": "¥",
+      "mainMessage2": "20.8",
+      "subMessage": "门市价:¥25",
+      "topRightInfo": "1.3km",
+      "bottomRightInfo": "已售2299",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42820508",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "通用自助餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486014972645376_c38_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42820508",
+        "position": "38",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/122ddc6e3c9fe7ef956ff40849969f88115657.jpg@130_0_522_522a%7C267h_267w_2e_90Q",
+      "imageTag": "0",
+      "title": "同裕国际酒店柏丽西餐厅",
+      "subTitle": "[2店通用] 特色海鲜自助餐",
+      "mainMessage": "¥",
+      "mainMessage2": "118",
+      "subMessage": "门市价:¥238",
+      "topRightInfo": "9.4km",
+      "bottomRightInfo": "已售480",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "43885068",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "特色海鲜自助餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055464419328_c40_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "43885068",
+        "position": "39",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/movie/aeb864fa21d578d845b9cefc056e40cb2874891.jpg@200w_200h_1e_1c",
+      "imageTag": "0",
+      "title": "摔跤吧！爸爸",
+      "subTitle": "喜剧,动作,家庭",
+      "subTitle2": "上映21天，累计票房84325万",
+      "mainMessage": "¥",
+      "mainMessage2": "13",
+      "subMessage": "起",
+      "campaign": {
+        "tag": "特惠选座"
+      },
+      "topRightInfo": "9.8分",
+      "_type": "film",
+      "_from": "FILM",
+      "_id": "588362",
+      "_iUrl": "imeituan://www.meituan.com/movie/cinemalist?movie_id=588362&coupon=choosesitting&stid=865486015274610688_c39_ef77849136e4aeda9b84d488f34e0eaa3",
+      "_jumpNeed": {
+        "iUrl": "imeituan://www.meituan.com/movie/cinemalist?movie_id=588362&coupon=choosesitting&stid=865486015274610688_c39_ef77849136e4aeda9b84d488f34e0eaa3"
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "ct_poi": "865486015274610688_c39_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reason": "",
+      "imageTagIcon": "http://p0.meituan.net/movie/e1b23b8e29e0df1fe9f2994a49980b6e2480.png",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "FILM",
+        "id": "588362",
+        "position": "40",
+        "type": "film"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/381f2cb65b6d4d967ba8cddfd14ff18367851.jpg@120_0_400_400a%7C267h_267w_2e_100q",
+      "imageTag": "0",
+      "title": "云来斯堡酒店餐厅",
+      "subTitle": "[兴盛路/猎德] 限量超值自助午餐",
+      "mainMessage": "¥",
+      "mainMessage2": "108",
+      "subMessage": "门市价:¥188",
+      "topRightInfo": "3.4km",
+      "bottomRightInfo": "已售3085",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "42593795",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2016-09-15,2016-10-01,2016-12-21,2016-12-31,2017-01-27,2017-04-02,2017-04-29,2017-05-29\",\"weekday\":\"6,7\",\"useDay\":\"0\",\"endDate\":\"2016-09-15,2016-10-03,2016-12-21,2017-01-02,2017-02-02,2017-04-04,2017-05-01,2017-05-30\"}",
+          "81": "限量超值自助午餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055464419328_c41_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "42593795",
+        "position": "41",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/200.200/xianfu/4f5897d268ec95176d8afd4bf6e8a7252376.jpg.webp",
+      "imageTag": "0",
+      "title": "洞庭土菜馆（广运店）",
+      "imageTitle": "http://p0.meituan.net/groupop/df92b87c4a50cb952406cb116ecf02691800.png",
+      "subTitle": "46分钟送达",
+      "subTitle2": "起送价¥30|配送费¥5|美团专送",
+      "subMessage": "满50减25, 满10...",
+      "bottomRightInfo": "月售3644",
+      "_type": "waimai",
+      "_from": "POI_WAIMAI",
+      "_id": "620635",
+      "_iUrl": "imeituan://www.meituan.com/takeout/foods?poi_id=284927&ct_poi=865486055426740224_c42_ef77849136e4aeda9b84d488f34e0eaa3_f620635",
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#06c1ae"
+      },
+      "ct_poi": "865486055426740224_c42_ef77849136e4aeda9b84d488f34e0eaa3_f620635",
+      "reason": "",
+      "unavailableTime": [
+        {
+          "day": "20170525",
+          "time": "00:00:00-09:59:59,13:30:01-16:59:59,20:30:01-23:59:59"
+        },
+        {
+          "day": "20170526",
+          "time": "00:00:00-09:59:59,13:30:01-16:59:59,20:30:01-23:59:59"
+        },
+        {
+          "day": "20170527",
+          "time": "00:00:00-09:59:59,13:30:01-16:59:59,20:30:01-23:59:59"
+        }
+      ],
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "POI_WAIMAI",
+        "id": "620635",
+        "position": "42",
+        "type": "waimai"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/ba1c618f18dc4f76f160eacfe1d64e0b122551.jpg@0_3_994_994a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "德洲汉堡",
+      "subTitle": "[天河公园/上社] 美式鸡肉卷+香辣鸡腿堡+巴辣鸡翅+薯条+2杯大可乐1份",
+      "mainMessage": "¥",
+      "mainMessage2": "26.4",
+      "subMessage": "门市价:¥44",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售3",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "45122322",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "超值招牌套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c43_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "45122322",
+        "position": "43",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/c53894303d7a9077f7c559b39fef4b69207121.jpg",
+      "imageTag": "0",
+      "title": "广州长隆水上乐园女士票",
+      "subTitle": "[大石] 广州长隆水上乐园女士票,请至少提前1天的23点45分前购买",
+      "mainMessage": "¥",
+      "mainMessage2": "99",
+      "subMessage": "",
+      "campaign": {
+        "tag": "返券8元",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "15.6km",
+      "bottomRightInfo": "已售18462",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44445351",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "trip",
+        "iUrl": "",
+        "cate": "2,78",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"请参照购买时的不可使用日期\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "575": "{\"key\":\"MP\"}",
+          "999887": "N",
+          "11020003": "Y"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486014972645376_c44_ef77849136e4aeda9b84d488f34e0eaa3",
+      "mge": {
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44445351",
+        "position": "44",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/13ef642164f5f367c5adada6469b72a234389.jpg@90_0_280_280a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "大自然醉鹅",
+      "subTitle": "[东圃] 火焰醉鹅4人套餐",
+      "mainMessage": "¥",
+      "mainMessage2": "138",
+      "subMessage": "门市价:¥170",
+      "topRightInfo": "4.3km",
+      "bottomRightInfo": "已售291",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44311354",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "火焰醉鹅4人套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486181192859648_c45_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44311354",
+        "position": "45",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/004ba830b93bf5e4d5994507cee8f4f882667.jpg@155_0_489_489a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "牛扒先生",
+      "subTitle": "[3店通用] 双人牛扒套餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "169",
+      "subMessage": "门市价:¥233",
+      "topRightInfo": "1.4km",
+      "bottomRightInfo": "已售6406",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "39510386",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "双人牛扒套餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015111045120_c46_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "39510386",
+        "position": "46",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/9633c3a3e6c4c67655ef9eb585b5e24f92116.jpg",
+      "imageTag": "3",
+      "title": "澳泽烘焙",
+      "subTitle": "[天河公园/上社] 榴莲千层蛋糕1份",
+      "mainMessage": "¥",
+      "mainMessage2": "12",
+      "subMessage": "门市价:¥15",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售175",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "33216880",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "榴莲千层蛋糕切件"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c47_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "33216880",
+        "position": "47",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/580a223b183c0faac3d02858cbadbbcb125728.jpg",
+      "imageTag": "3",
+      "title": "醉听风小酒馆厕所串串香",
+      "subTitle": "[天河公园/上社] 50元代金券1张，可叠加",
+      "mainMessage": "¥",
+      "mainMessage2": "45",
+      "subMessage": "门市价:¥50",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售9",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "43762378",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"specialCondition\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "13": "1"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015178035200_c48_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "43762378",
+        "position": "48",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/efb20e187a78924ddf3d4ab542cd409e35717.jpg",
+      "imageTag": "3",
+      "title": "家姐厨房",
+      "subTitle": "[天河公园/上社] 实惠美味6人餐",
+      "mainMessage": "¥",
+      "mainMessage2": "159",
+      "subMessage": "门市价:¥360",
+      "topRightInfo": "648m",
+      "bottomRightInfo": "已售2663",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "30659309",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-02-11,2017-05-27,2017-05-30,2017-06-03,2017-06-10,2017-06-17,2017-06-24,2017-09-10,2017-10-04\",\"useDay\":\"1\",\"endDate\":\"2017-02-11,2017-05-28,2017-05-30,2017-06-04,2017-06-11,2017-06-18,2017-06-25,2017-09-10,2017-10-04\"}",
+          "81": "实惠美味6人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055544160256_c49_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "30659309",
+        "position": "49",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/2e637923634aacf262a58d8bae3602c346702.jpg",
+      "imageTag": "3",
+      "title": "海柜自助餐厅",
+      "subTitle": "[东圃] 全天海鲜自助",
+      "mainMessage": "¥",
+      "mainMessage2": "77",
+      "subMessage": "门市价:¥98",
+      "topRightInfo": "3.1km",
+      "bottomRightInfo": "已售42934",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "32646347",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-27\",\"specialCondition\":\"2016年2月10日不可用\",\"useDay\":\"1\",\"endDate\":\"2017-01-30\"}",
+          "81": "全天海鲜自助"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486014972645376_c50_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "32646347",
+        "position": "50",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/cb756f70e5e8c37f96e59c0335182f9033646.jpg@90_0_279_279a%7C267h_267w_2e_90q",
+      "imageTag": "3",
+      "title": "相约人家",
+      "subTitle": "[天河公园/上社] 香辣烤鱼2人餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "48",
+      "subMessage": "门市价:¥74",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售250",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "36691739",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-01-23\",\"useDay\":\"1\",\"endDate\":\"2017-02-03\"}",
+          "81": "香辣烤鱼2人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015178035200_c51_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "36691739",
+        "position": "51",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/w.h/deal/f4c0df365bb9c790dac7189505b98700162528.jpg@0_120_720_720a%7C267h_267w_2e_90q",
+      "imageTag": "0",
+      "title": "地中海国际酒店欧味思西餐厅",
+      "subTitle": "[石牌/百脑汇] 豪华双人自助晚餐",
+      "mainMessage": "¥",
+      "mainMessage2": "268",
+      "subMessage": "",
+      "campaign": {
+        "tag": "新客减30",
+        "festival": "",
+        "color": "",
+        "shortTag": ""
+      },
+      "topRightInfo": "3.8km",
+      "bottomRightInfo": "已售11130",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "28970697",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"2017-02-14\",\"useDay\":\"1\",\"endDate\":\"2017-02-14\"}",
+          "81": "豪华双人自助晚餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486055464419328_c52_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "28970697",
+        "position": "52",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/98845be53a8ccab549eccbbe9317be0152421.jpg@297_0_923_923a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "佬湘楼",
+      "subTitle": "[3店通用] 忆口香小龙虾1斤",
+      "mainMessage": "¥",
+      "mainMessage2": "49",
+      "subMessage": "门市价:¥56",
+      "topRightInfo": "3.2km",
+      "bottomRightInfo": "已售172",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44627646",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "忆口香小龙虾"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015111045120_c53_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44627646",
+        "position": "53",
+        "type": "deal"
+      }
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/w.h/deal/1d28c3c80f5edd6d7439991b6884867e28456.jpg@90_0_280_280a%7C267h_267w_2e_90Q",
+      "imageTag": "3",
+      "title": "一家之煮",
+      "subTitle": "[棠下] 2-3人餐，提供免费WiFi",
+      "mainMessage": "¥",
+      "mainMessage2": "68",
+      "subMessage": "门市价:¥121",
+      "topRightInfo": "<500m",
+      "bottomRightInfo": "已售24",
+      "_type": "deal",
+      "_from": "DEAL_GROUP",
+      "_id": "44351852",
+      "_iUrl": "",
+      "_jumpNeed": {
+        "channel": "food",
+        "iUrl": "",
+        "cate": "1",
+        "optionalattrs": {
+          "11": "{\"startDate\":\"\",\"useDay\":\"1\",\"endDate\":\"\"}",
+          "81": "2-3人餐"
+        }
+      },
+      "color": {
+        "reason": "#F58300",
+        "reason_BackGround": "#FEF6EC",
+        "subTitle": "#999999",
+        "mainMessage": "#06c1ae",
+        "bottomRightInfo": "#999999",
+        "mainMessage2": "#06c1ae",
+        "topRightInfo": "#999999",
+        "title": "#333333",
+        "subMessage": "#999999"
+      },
+      "stid": "865486015073333248_c54_ef77849136e4aeda9b84d488f34e0eaa3",
+      "reasonId": "0",
+      "mge": {
+        "reasonid": "0",
+        "globalid": "f77849136e4aeda9b84d488f34e0eaa3",
+        "dtype": "DEAL_GROUP",
+        "id": "44351852",
+        "position": "54",
+        "type": "deal"
+      }
+    }
+  ]
+}
