@@ -341,6 +341,39 @@ ReactNative 仿美团项目
     />
 
 ```
+12. 热门中心：和购物中心类似
+
+13. 猜你喜欢：
+
+    猜你喜欢：回调函数，逆向传值或者是正向传值
+
+    <img src="猜你喜欢.png" width="375" >
+
+> 组件式开发
+
+核心代码：
+```JavaScript
+    dataMethod(){
+          fetch(this.props.api_url)
+           .then((responder)=>responder.json())
+           .then(responderData=>{
+              this.setState({dataSource:this.state.dataSource.cloneWithRows(responderData.data)})
+           })
+          .catch((error) => {
+             this.setState({dataSource:this.state.dataSource.cloneWithRows(homeBottomData.data)})
+         });
+    }
+
+    dealWithUrl(url){
+
+        if (url.search('w.h') == -1){
+           return url.replace('.webp','');
+        }else {
+          return url.replace('w.h','120.90')
+        }
+    }
+
+```
 =======================
 
   #### 如有更好的建议请联系:<2281075105@qq.com>

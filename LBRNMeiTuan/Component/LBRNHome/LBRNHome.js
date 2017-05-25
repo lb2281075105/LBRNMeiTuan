@@ -189,11 +189,8 @@ var LBRNHome = React.createClass({
                         <Image source={{uri:'cnxh'}} style={{width:40,height:40,marginLeft:5}}/>
                         <Text style={{color:'#bbb',marginLeft:5}}>猜你喜欢</Text>
                     </View>
-                    <ScrollView>
-                       <LBRNHomeLike
-
+                    <LBRNHomeLike
                     />
-                    </ScrollView>
                 </View>
             )
         },
